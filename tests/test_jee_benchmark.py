@@ -208,6 +208,64 @@ def test_single_problem(dataset, model):
     print("\n=== Full Solution ===")
     print(solution.get("solution", "No solution provided"))
 
+def test_sample_problems(dataset, model, samples_per_type=3):
+    """Test the model on a sample of problems from each type."""
+    # Filter for math problems only
+    math_problems = [q for q in dataset if q["subject"] == "math"]
+    
+    # Group problems by type
+    problems_by_type = {
+        "MCQ": [],
+        "MCQ(multiple)": [],
+        "Integer": [],
+        "Numeric": []
+    }
+    
+    for problem in math_problems:
+        if problem["type"] in problems_by_type:
+            problems_by_type[problem["type"]].append(problem)
+    
+    print("\n=== Testing Sample Problems ===")
+    
+    # Test problems for each type
+    for qtype, problems in problems_by_type.items():
+        print(f"\n--- Testing {qtype} Problems ---")
+        # Take first 3 problems of each type
+        test_problems = problems[:samples_per_type]
+        
+        for i, question in enumerate(test_problems, 1):
+            print(f"\nProblem {i} of {samples_per_type}")
+            print(f"Question: {question['question']}")
+            print(f"Expected Answer: {question['gold']}")
+            
+            # Prepare input
+            query = MathQuery(
+                question=question["question"],
+                subject="math",
+                type=question["type"]
+            )
+            
+            # Generate solution
+            print("\nGenerating solution...")
+            solution = model.solve(query)
+            
+            # Clean and compare answers
+            predicted_answer = clean_answer(solution.get("answer", ""), question["type"])
+            correct_answer = clean_answer(question["gold"], question["type"])
+            
+            print("\nResults:")
+            print(f"Raw model output: {solution.get('answer', '')}")
+            print(f"Cleaned predicted answer: {predicted_answer}")
+            print(f"Raw correct answer: {question['gold']}")
+            print(f"Cleaned correct answer: {correct_answer}")
+            print(f"Status: {'✓ CORRECT' if predicted_answer == correct_answer else '✗ INCORRECT'}")
+            
+            if not predicted_answer == correct_answer:
+                print("\nFull Solution:")
+                print(solution.get("solution", "No solution provided"))
+            
+            print("\n" + "="*50)
+
 def main():
     # Initialize components
     print("Initializing Math Professor system...")
@@ -220,8 +278,8 @@ def main():
     print("Loading JEE benchmark dataset...")
     dataset = load_jee_dataset()
     
-    # Test single problem
-    test_single_problem(dataset, solution_generator)
+    # Test sample problems
+    test_sample_problems(dataset, solution_generator)
 
 if __name__ == "__main__":
     main() 

@@ -8,6 +8,11 @@ import time
 from typing import Dict
 import dspy
 
+# Go up 3 levels to reach the root .env file
+env_path = Path(__file__).resolve().parents[2] / ".env"
+load_dotenv(dotenv_path=env_path)
+
+
 # Load environment variables
 load_dotenv()
 
