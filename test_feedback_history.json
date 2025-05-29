@@ -1,0 +1,362 @@
+[
+  {
+    "problem": "Solve the quadratic equation: x\u00b2 + 5x + 6 = 0",
+    "solution": {
+      "steps": [
+        "Using the quadratic formula: x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a",
+        "Here, a = 1, b = 5, c = 6",
+        "x = (-5 \u00b1 \u221a(25 - 24)) / 2",
+        "x = (-5 \u00b1 \u221a1) / 2",
+        "x = (-5 \u00b1 1) / 2"
+      ],
+      "answer": "x = -3 or x = -2",
+      "explanation": "The solution can be verified by plugging these values back into the original equation."
+    },
+    "feedback_type": "correctness",
+    "rating": 3,
+    "comment": "i wanna understand it better it seems like a very compleex approach with all the formulae",
+    "timestamp": "2025-05-27 23:06:59.560454"
+  },
+  {
+    "problem": "Solve the quadratic equation: x\u00b2 + 5x + 6 = 0",
+    "solution": {
+      "steps": [
+        "Using the quadratic formula: x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a",
+        "Here, a = 1, b = 5, c = 6",
+        "x = (-5 \u00b1 \u221a(25 - 24)) / 2",
+        "x = (-5 \u00b1 \u221a1) / 2",
+        "x = (-5 \u00b1 1) / 2"
+      ],
+      "answer": "x = -3 or x = -2",
+      "explanation": "The solution can be verified by plugging these values back into the original equation."
+    },
+    "feedback_type": "clarity",
+    "rating": 3,
+    "comment": "i wanna understand it better it seems like a very compleex approach with all the formulae",
+    "timestamp": "2025-05-27 23:06:59.560473"
+  },
+  {
+    "problem": "Solve the quadratic equation: x\u00b2 + 5x + 6 = 0",
+    "solution": {
+      "steps": [
+        "Using the quadratic formula: x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a",
+        "Here, a = 1, b = 5, c = 6",
+        "x = (-5 \u00b1 \u221a(25 - 24)) / 2",
+        "x = (-5 \u00b1 \u221a1) / 2",
+        "x = (-5 \u00b1 1) / 2"
+      ],
+      "answer": "x = -3 or x = -2",
+      "explanation": "The solution can be verified by plugging these values back into the original equation."
+    },
+    "feedback_type": "steps",
+    "rating": 2,
+    "comment": "i wanna understand it better it seems like a very compleex approach with all the formulae",
+    "timestamp": "2025-05-27 23:06:59.560475"
+  },
+  {
+    "problem": "Solve the quadratic equation: x\u00b2 + 5x + 6 = 0",
+    "solution": {
+      "steps": [
+        "Using the quadratic formula: x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a",
+        "Here, a = 1, b = 5, c = 6",
+        "x = (-5 \u00b1 \u221a(25 - 24)) / 2",
+        "x = (-5 \u00b1 \u221a1) / 2",
+        "x = (-5 \u00b1 1) / 2"
+      ],
+      "answer": "x = -3 or x = -2",
+      "explanation": "The solution can be verified by plugging these values back into the original equation."
+    },
+    "feedback_type": "completeness",
+    "rating": 3,
+    "comment": "i wanna understand it better it seems like a very compleex approach with all the formulae",
+    "timestamp": "2025-05-27 23:06:59.560482"
+  },
+  {
+    "problem": "Solve the quadratic equation: x\u00b2 + 5x + 6 = 0",
+    "solution": {
+      "steps": [
+        "Using the quadratic formula: x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a",
+        "Here, a = 1, b = 5, c = 6",
+        "x = (-5 \u00b1 \u221a(25 - 24)) / 2",
+        "x = (-5 \u00b1 \u221a1) / 2",
+        "x = (-5 \u00b1 1) / 2"
+      ],
+      "answer": "x = -3 or x = -2",
+      "explanation": "The solution can be verified by plugging these values back into the original equation."
+    },
+    "feedback_type": "correctness",
+    "rating": 4,
+    "comment": "it is very complex with very difficult forumlae",
+    "timestamp": "2025-05-27 23:09:15.908769"
+  },
+  {
+    "problem": "Solve the quadratic equation: x\u00b2 + 5x + 6 = 0",
+    "solution": {
+      "steps": [
+        "Using the quadratic formula: x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a",
+        "Here, a = 1, b = 5, c = 6",
+        "x = (-5 \u00b1 \u221a(25 - 24)) / 2",
+        "x = (-5 \u00b1 \u221a1) / 2",
+        "x = (-5 \u00b1 1) / 2"
+      ],
+      "answer": "x = -3 or x = -2",
+      "explanation": "The solution can be verified by plugging these values back into the original equation."
+    },
+    "feedback_type": "clarity",
+    "rating": 3,
+    "comment": "it is very complex with very difficult forumlae",
+    "timestamp": "2025-05-27 23:09:15.908799"
+  },
+  {
+    "problem": "Solve the quadratic equation: x\u00b2 + 5x + 6 = 0",
+    "solution": {
+      "steps": [
+        "Using the quadratic formula: x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a",
+        "Here, a = 1, b = 5, c = 6",
+        "x = (-5 \u00b1 \u221a(25 - 24)) / 2",
+        "x = (-5 \u00b1 \u221a1) / 2",
+        "x = (-5 \u00b1 1) / 2"
+      ],
+      "answer": "x = -3 or x = -2",
+      "explanation": "The solution can be verified by plugging these values back into the original equation."
+    },
+    "feedback_type": "steps",
+    "rating": 3,
+    "comment": "it is very complex with very difficult forumlae",
+    "timestamp": "2025-05-27 23:09:15.908805"
+  },
+  {
+    "problem": "Solve the quadratic equation: x\u00b2 + 5x + 6 = 0",
+    "solution": {
+      "steps": [
+        "Using the quadratic formula: x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a",
+        "Here, a = 1, b = 5, c = 6",
+        "x = (-5 \u00b1 \u221a(25 - 24)) / 2",
+        "x = (-5 \u00b1 \u221a1) / 2",
+        "x = (-5 \u00b1 1) / 2"
+      ],
+      "answer": "x = -3 or x = -2",
+      "explanation": "The solution can be verified by plugging these values back into the original equation."
+    },
+    "feedback_type": "completeness",
+    "rating": 3,
+    "comment": "it is very complex with very difficult forumlae",
+    "timestamp": "2025-05-27 23:09:15.908818"
+  },
+  {
+    "problem": "Solve the quadratic equation: x\u00b2 + 5x + 6 = 0",
+    "solution": {
+      "steps": [
+        "Using the quadratic formula: x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a",
+        "Here, a = 1, b = 5, c = 6",
+        "x = (-5 \u00b1 \u221a(25 - 24)) / 2",
+        "x = (-5 \u00b1 \u221a1) / 2",
+        "x = (-5 \u00b1 1) / 2"
+      ],
+      "answer": "x = -3 or x = -2",
+      "explanation": "The solution can be verified by plugging these values back into the original equation."
+    },
+    "feedback_type": "correctness",
+    "rating": 4,
+    "comment": "it is very complex and uses a difficult formula that i dont understand",
+    "timestamp": "2025-05-27 23:12:37.157015"
+  },
+  {
+    "problem": "Solve the quadratic equation: x\u00b2 + 5x + 6 = 0",
+    "solution": {
+      "steps": [
+        "Using the quadratic formula: x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a",
+        "Here, a = 1, b = 5, c = 6",
+        "x = (-5 \u00b1 \u221a(25 - 24)) / 2",
+        "x = (-5 \u00b1 \u221a1) / 2",
+        "x = (-5 \u00b1 1) / 2"
+      ],
+      "answer": "x = -3 or x = -2",
+      "explanation": "The solution can be verified by plugging these values back into the original equation."
+    },
+    "feedback_type": "clarity",
+    "rating": 3,
+    "comment": "it is very complex and uses a difficult formula that i dont understand",
+    "timestamp": "2025-05-27 23:12:37.157231"
+  },
+  {
+    "problem": "Solve the quadratic equation: x\u00b2 + 5x + 6 = 0",
+    "solution": {
+      "steps": [
+        "Using the quadratic formula: x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a",
+        "Here, a = 1, b = 5, c = 6",
+        "x = (-5 \u00b1 \u221a(25 - 24)) / 2",
+        "x = (-5 \u00b1 \u221a1) / 2",
+        "x = (-5 \u00b1 1) / 2"
+      ],
+      "answer": "x = -3 or x = -2",
+      "explanation": "The solution can be verified by plugging these values back into the original equation."
+    },
+    "feedback_type": "steps",
+    "rating": 3,
+    "comment": "it is very complex and uses a difficult formula that i dont understand",
+    "timestamp": "2025-05-27 23:12:37.157243"
+  },
+  {
+    "problem": "Solve the quadratic equation: x\u00b2 + 5x + 6 = 0",
+    "solution": {
+      "steps": [
+        "Using the quadratic formula: x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a",
+        "Here, a = 1, b = 5, c = 6",
+        "x = (-5 \u00b1 \u221a(25 - 24)) / 2",
+        "x = (-5 \u00b1 \u221a1) / 2",
+        "x = (-5 \u00b1 1) / 2"
+      ],
+      "answer": "x = -3 or x = -2",
+      "explanation": "The solution can be verified by plugging these values back into the original equation."
+    },
+    "feedback_type": "completeness",
+    "rating": 3,
+    "comment": "it is very complex and uses a difficult formula that i dont understand",
+    "timestamp": "2025-05-27 23:12:37.157257"
+  },
+  {
+    "problem": "Solve the quadratic equation: x\u00b2 + 5x + 6 = 0",
+    "solution": {
+      "steps": [
+        "Using the quadratic formula: x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a",
+        "Here, a = 1, b = 5, c = 6",
+        "x = (-5 \u00b1 \u221a(25 - 24)) / 2",
+        "x = (-5 \u00b1 \u221a1) / 2",
+        "x = (-5 \u00b1 1) / 2"
+      ],
+      "answer": "x = -3 or x = -2",
+      "explanation": "The solution can be verified by plugging these values back into the original equation."
+    },
+    "feedback_type": "correctness",
+    "rating": 4,
+    "comment": "it is very complex and uses a difficult formula that i dont understand^[[1;2C",
+    "timestamp": "2025-05-27 23:17:20.367805"
+  },
+  {
+    "problem": "Solve the quadratic equation: x\u00b2 + 5x + 6 = 0",
+    "solution": {
+      "steps": [
+        "Using the quadratic formula: x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a",
+        "Here, a = 1, b = 5, c = 6",
+        "x = (-5 \u00b1 \u221a(25 - 24)) / 2",
+        "x = (-5 \u00b1 \u221a1) / 2",
+        "x = (-5 \u00b1 1) / 2"
+      ],
+      "answer": "x = -3 or x = -2",
+      "explanation": "The solution can be verified by plugging these values back into the original equation."
+    },
+    "feedback_type": "clarity",
+    "rating": 3,
+    "comment": "it is very complex and uses a difficult formula that i dont understand^[[1;2C",
+    "timestamp": "2025-05-27 23:17:20.367895"
+  },
+  {
+    "problem": "Solve the quadratic equation: x\u00b2 + 5x + 6 = 0",
+    "solution": {
+      "steps": [
+        "Using the quadratic formula: x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a",
+        "Here, a = 1, b = 5, c = 6",
+        "x = (-5 \u00b1 \u221a(25 - 24)) / 2",
+        "x = (-5 \u00b1 \u221a1) / 2",
+        "x = (-5 \u00b1 1) / 2"
+      ],
+      "answer": "x = -3 or x = -2",
+      "explanation": "The solution can be verified by plugging these values back into the original equation."
+    },
+    "feedback_type": "steps",
+    "rating": 3,
+    "comment": "it is very complex and uses a difficult formula that i dont understand^[[1;2C",
+    "timestamp": "2025-05-27 23:17:20.367913"
+  },
+  {
+    "problem": "Solve the quadratic equation: x\u00b2 + 5x + 6 = 0",
+    "solution": {
+      "steps": [
+        "Using the quadratic formula: x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a",
+        "Here, a = 1, b = 5, c = 6",
+        "x = (-5 \u00b1 \u221a(25 - 24)) / 2",
+        "x = (-5 \u00b1 \u221a1) / 2",
+        "x = (-5 \u00b1 1) / 2"
+      ],
+      "answer": "x = -3 or x = -2",
+      "explanation": "The solution can be verified by plugging these values back into the original equation."
+    },
+    "feedback_type": "completeness",
+    "rating": 3,
+    "comment": "it is very complex and uses a difficult formula that i dont understand^[[1;2C",
+    "timestamp": "2025-05-27 23:17:20.367933"
+  },
+  {
+    "problem": "Solve the quadratic equation: x\u00b2 + 5x + 6 = 0",
+    "solution": {
+      "steps": [
+        "Using the quadratic formula: x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a",
+        "Here, a = 1, b = 5, c = 6",
+        "x = (-5 \u00b1 \u221a(25 - 24)) / 2",
+        "x = (-5 \u00b1 \u221a1) / 2",
+        "x = (-5 \u00b1 1) / 2"
+      ],
+      "answer": "x = -3 or x = -2",
+      "explanation": "The solution can be verified by plugging these values back into the original equation."
+    },
+    "feedback_type": "correctness",
+    "rating": 4,
+    "comment": "it is very complex and uses a difficult formula that i dont understand^[[1;2C",
+    "timestamp": "2025-05-27 23:21:07.684034"
+  },
+  {
+    "problem": "Solve the quadratic equation: x\u00b2 + 5x + 6 = 0",
+    "solution": {
+      "steps": [
+        "Using the quadratic formula: x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a",
+        "Here, a = 1, b = 5, c = 6",
+        "x = (-5 \u00b1 \u221a(25 - 24)) / 2",
+        "x = (-5 \u00b1 \u221a1) / 2",
+        "x = (-5 \u00b1 1) / 2"
+      ],
+      "answer": "x = -3 or x = -2",
+      "explanation": "The solution can be verified by plugging these values back into the original equation."
+    },
+    "feedback_type": "clarity",
+    "rating": 3,
+    "comment": "it is very complex and uses a difficult formula that i dont understand^[[1;2C",
+    "timestamp": "2025-05-27 23:21:07.684074"
+  },
+  {
+    "problem": "Solve the quadratic equation: x\u00b2 + 5x + 6 = 0",
+    "solution": {
+      "steps": [
+        "Using the quadratic formula: x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a",
+        "Here, a = 1, b = 5, c = 6",
+        "x = (-5 \u00b1 \u221a(25 - 24)) / 2",
+        "x = (-5 \u00b1 \u221a1) / 2",
+        "x = (-5 \u00b1 1) / 2"
+      ],
+      "answer": "x = -3 or x = -2",
+      "explanation": "The solution can be verified by plugging these values back into the original equation."
+    },
+    "feedback_type": "steps",
+    "rating": 3,
+    "comment": "it is very complex and uses a difficult formula that i dont understand^[[1;2C",
+    "timestamp": "2025-05-27 23:21:07.684079"
+  },
+  {
+    "problem": "Solve the quadratic equation: x\u00b2 + 5x + 6 = 0",
+    "solution": {
+      "steps": [
+        "Using the quadratic formula: x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a",
+        "Here, a = 1, b = 5, c = 6",
+        "x = (-5 \u00b1 \u221a(25 - 24)) / 2",
+        "x = (-5 \u00b1 \u221a1) / 2",
+        "x = (-5 \u00b1 1) / 2"
+      ],
+      "answer": "x = -3 or x = -2",
+      "explanation": "The solution can be verified by plugging these values back into the original equation."
+    },
+    "feedback_type": "completeness",
+    "rating": 3,
+    "comment": "it is very complex and uses a difficult formula that i dont understand^[[1;2C",
+    "timestamp": "2025-05-27 23:21:07.684088"
+  }
+]
