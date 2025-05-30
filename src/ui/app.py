@@ -8,6 +8,8 @@ import time
 from typing import Dict
 import dspy
 
+sys.path.append(str(Path(__file__).resolve().parents[2]))
+
 openai_key = os.getenv("OPENAI_API_KEY")
 serper_key = os.getenv("SERPER_API_KEY")
 
