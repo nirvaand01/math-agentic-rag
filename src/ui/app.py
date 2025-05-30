@@ -1,7 +1,7 @@
 import sys
 from pathlib import Path
 
-sys.path.append(str(Path(__file__).resolve().parents[1]))
+sys.path.append(str(Path(__file__).resolve().parents[2]))
 
 import streamlit as st
 import json
@@ -10,8 +10,6 @@ from dotenv import load_dotenv
 import time
 from typing import Dict
 import dspy
-
-sys.path.append(str(Path(__file__).resolve().parents[1]))
 
 openai_key = os.getenv("OPENAI_API_KEY")
 serper_key = os.getenv("SERPER_API_KEY")
