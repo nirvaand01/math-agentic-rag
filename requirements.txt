@@ -11,3 +11,4 @@ datasets>=2.15.0
 tqdm>=4.65.0
 tavily-python>=0.2.6
 dspy>=2.3.3 
+beautifulsoup4
