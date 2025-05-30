@@ -8,10 +8,8 @@ import time
 from typing import Dict
 import dspy
 
-# Go up 3 levels to reach the root .env file
-env_path = Path(__file__).resolve().parents[2] / ".env"
-load_dotenv(dotenv_path=env_path)
-
+openai_key = os.getenv("OPENAI_API_KEY")
+serper_key = os.getenv("SERPER_API_KEY")
 
 # Load environment variables
 load_dotenv()
